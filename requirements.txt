@@ -1,0 +1,6 @@
+aiohttp==3.9.5
+hyper==0.7.0
+requests>=2.31.0
+urllib3>=1.26.18
+tls-client==1.0.1
+schedule==1.2.1
