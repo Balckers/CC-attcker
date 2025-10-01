@@ -9,3 +9,4 @@
 
 QQ: [🐧](https://qm.qq.com/q/sKP3jsCuvm)
 # 如何使用
+Use `pip3 install -r requirements.txt` to list all new or modified files that haven't yet been committed.
