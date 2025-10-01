@@ -13,4 +13,4 @@ QQ: [🐧](https://qm.qq.com/q/sKP3jsCuvm)
 
 2.利用 `python3 一键安装配置.py` 所有配置.
 
-3.启动 `python3 cc-attack.py` 启动程序开始你的骇客之旅!
+3.启动 `python3 cc-attack.py` 启动程序开始你的HACK之旅!
