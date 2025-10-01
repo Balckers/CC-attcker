@@ -6,5 +6,5 @@
 
 # 如何联系作者
 
-QQ: [🐧](https://qm.qq.com/q/sKP3jsCuvm).
+QQ: [🐧](https://qm.qq.com/q/sKP3jsCuvm)
 
