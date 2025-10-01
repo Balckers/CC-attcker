@@ -1,26 +1,10 @@
 # CC-attcker
-CC攻击工具加强版请勿用于非法用途!
-# Example headings
+<img width="3464" height="3464" alt="Picsart_25-10-01_14-37-03-603" src="https://github.com/user-attachments/assets/7cd89c5c-70b4-4825-be5d-9605f05c82bd" />
+# ⚠️作者提示
+请勿用于非法用途!
+# # 工具使用教程
 
-## Sample Section
+# 如何联系作者
 
-## This'll be a _Helpful_ Section About the Greek Letter Θ!
-A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
+QQ: [🐧](https://qm.qq.com/q/sKP3jsCuvm).
 
-## This heading is not unique in the file
-
-TEXT 1
-
-## This heading is not unique in the file
-
-TEXT 2
-
-# Links to the example headings above
-
-Link to the sample section: [Link Text](#sample-section).
-
-Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
-
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
