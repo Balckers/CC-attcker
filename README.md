@@ -8,9 +8,16 @@
 # 如何联系作者
 
 QQ: [🐧](https://qm.qq.com/q/sKP3jsCuvm)
-# 如何使用
+# 如何安装｜使用？
 1.利用 `pip3 install -r requirements.txt` 安装程序的所有依赖.
 
 2.利用 `python3 一键安装配置.py` 所有配置.
 
 3.启动 `python3 cc-attack.py` 启动程序开始你的HACK之旅!
+
+# 提示👩🏻‍💻
+利用python爬虫爬取免费网站代理IP或购买个人机场IP利用脚本检测存活IP把代理IP放入"代理.txt"启动程序进行你的任务
+
+# 工具截图
+
+![Screenshot_20251001_140041](https://github.com/user-attachments/assets/a36dcd50-914a-4488-b8bb-edcbcdda8c56)
