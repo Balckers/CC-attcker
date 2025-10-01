@@ -9,4 +9,6 @@
 
 QQ: [🐧](https://qm.qq.com/q/sKP3jsCuvm)
 # 如何使用
-Use `pip3 install -r requirements.txt` to list all new or modified files that haven't yet been committed.
+1.利用 `pip3 install -r requirements.txt` 安装程序的所有依赖.
+2.利用 `python3 一键安装配置.py` 所有配置.
+3.启动 `python3 cc-attack.py` 启动程序开始你的骇客之旅!
